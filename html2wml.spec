@@ -8,7 +8,7 @@ License:	GPL
 Group:		Applications/Networking
 Source0:	http://maddingue.free.fr/softwares/download/Html2Wml/%{name}-%{version}.tar.gz
 # Source0-md5:	855947a5e4287fe9d4fd87abfee7f760
-URL:		http://html2wml.org
+URL:		http://html2wml.org/
 BuildRequires:	perl-HTML-Parser
 BuildRequires:	perl-Text-Template
 BuildRequires:	perl-URI
