@@ -2,12 +2,12 @@
 Summary:	Html2Wml - a Perl program that converts HTML documents to WML
 Summary(pl):	Html2Wml - program w Perlu konwertuj±cy dokumenty HTML do WML-a
 Name:		html2wml
-Version:	0.4.10
+Version:	0.4.11
 Release:	1
 License:	GPL
 Group:		Applications/Networking
 Source0:	http://maddingue.free.fr/softwares/download/Html2Wml/%{name}-%{version}.tar.gz
-# Source0-md5:	855947a5e4287fe9d4fd87abfee7f760
+# Source0-md5:	a65c1d6bb9c5e0a12113bcee33762f12
 URL:		http://html2wml.org/
 BuildRequires:	perl-HTML-Parser
 BuildRequires:	perl-Text-Template
