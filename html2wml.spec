@@ -13,6 +13,7 @@ BuildRequires:	perl-HTML-Parser
 BuildRequires:	perl-Text-Template
 BuildRequires:	perl-URI
 BuildRequires:	perl-libwww
+BuildRequires:	rpm-perlprov
 Requires:	perl-XML-Parser
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
