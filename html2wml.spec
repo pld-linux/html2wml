@@ -20,7 +20,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Html2Wml is a Perl program that converts HTML documents to WML decks,
-i.e. documents that are viewable on a Wap device. 
+i.e. documents that are viewable on a Wap device.
 
 %description -l pl
 Html2Wml to program w Perlu konwertuj±cy dokumenty HTML do dokumentów
