@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Html2Wml - a Perl program that converts HTML documents to WML
-Summary(pl.UTF-8):   Html2Wml - program w Perlu konwertujący dokumenty HTML do WML-a
+Summary(pl.UTF-8):	Html2Wml - program w Perlu konwertujący dokumenty HTML do WML-a
 Name:		html2wml
 Version:	0.4.11
 Release:	1
